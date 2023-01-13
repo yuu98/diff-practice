@@ -1,3 +1,4 @@
+conflict in main branch
 13:20rebase
 # diff-practice
 変更1st
