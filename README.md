@@ -1,5 +1,4 @@
-conflict in main branch
-13:20rebase
+13:30rebase
 # diff-practice
 変更1st
 working directory
